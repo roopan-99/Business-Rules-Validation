@@ -20,7 +20,7 @@ The dataset contains customer and transaction information that was validated usi
 
 ## 📂 Project Files
 
-- *Business_Rules_Validation_1500_Records.xlsx* – Raw data, validation rules, summary, and dashboard.
+- *Business_Rules_Validation_5000_Records.xlsx* – Raw data, validation rules, summary, and dashboard.
 - *validation_queries.sql* – SQL queries used for validation and business reporting.
 
 ---
